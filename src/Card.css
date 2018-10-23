@@ -1,0 +1,11 @@
+.card {
+  background-color: aqua;
+  height: 300px;
+  width: 300px;
+}
+.card-list {
+  margin: 15px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 350px);
+  grid-gap: 25px;
+}
