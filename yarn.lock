@@ -919,6 +919,12 @@
     classnames "^2.2.5"
     dom-helpers "^3.3.1"
 
+"@zendeskgarden/react-notifications@^3.1.15":
+  version "3.1.15"
+  resolved "https://registry.yarnpkg.com/@zendeskgarden/react-notifications/-/react-notifications-3.1.15.tgz#ea63c249887aa7a631150eeb9994ca0d82dce354"
+  dependencies:
+    classnames "^2.2.5"
+
 "@zendeskgarden/react-selection@^4.6.0":
   version "4.6.0"
   resolved "https://registry.yarnpkg.com/@zendeskgarden/react-selection/-/react-selection-4.6.0.tgz#59554db5c26b0f6a21ac53569d156a7f7b1d44bc"
